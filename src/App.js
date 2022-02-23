@@ -81,7 +81,7 @@ useEffect(() => {
   return (
     <div className="App">
       <header>
-        <h1>Malik's ToDo List {inputText}</h1>
+        <h1>Malik's ToDo List</h1>
       </header>
 
       {/* Components being passed down using props*/}
