@@ -1,18 +1,28 @@
-# Getting Started with Create React App
+# Simple React ToDo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Todo app allows you to enter an item, name or just something you need to do and when you complete what needed to be done you are then able to view all of your completed selections.
 
-## Available Scripts
+This is a beginner todo app project using React
 
+
+## Tech Stack
+
+React, JavaScript, Components
+
+### How To Get Started
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
+
+Open your terminal and type:
+### `npx create-react-app todo-app`
+
 You may also see any lint errors in the console.
+
 
 ### `npm test`
 
@@ -68,3 +78,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Once your code editor is opened delete the header element and everything inside of it 
+
+Then open your App.js file and click JavaScript at the bottom. Type in React and select JavaScript React. In order to make sure your JSX works.
+
+Delete the svg file under the src folder. 
+Delete the import svg in the App.js file.
+Delete the App.test.js file under the src folder
+Delete all of the code in App.css
+
+You are ready to code!!
