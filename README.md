@@ -21,6 +21,17 @@ The page will reload when you make changes.\
 Open your terminal and type:
 ### `npx create-react-app todo-app`
 
+Once your code editor is opened delete the header element and everything inside of it
+
+Then open your App.js file and click JavaScript at the bottom. Type in React and select JavaScript React. In order to make sure your JSX works.
+
+Delete the svg file under the src folder.
+Delete the import svg in the App.js file.
+Delete the App.test.js file under the src folder
+Delete all of the code in App.css
+
+##You are ready to code!!
+
 You may also see any lint errors in the console.
 
 
@@ -79,13 +90,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Once your code editor is opened delete the header element and everything inside of it 
-
-Then open your App.js file and click JavaScript at the bottom. Type in React and select JavaScript React. In order to make sure your JSX works.
-
-Delete the svg file under the src folder. 
-Delete the import svg in the App.js file.
-Delete the App.test.js file under the src folder
-Delete all of the code in App.css
-
-You are ready to code!!
