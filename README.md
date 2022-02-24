@@ -30,7 +30,7 @@ Delete the import svg in the App.js file.
 Delete the App.test.js file under the src folder
 Delete all of the code in App.css
 
-##You are ready to code!!
+## You are ready to code!!
 
 You may also see any lint errors in the console.
 
