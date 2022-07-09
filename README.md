@@ -1,4 +1,4 @@
-# Simple React ToDo App
+# React ToDo List App
 
 This ToDo app allows you to enter an item, name or just something you need to do and when you complete what needed to be done you are then able to view all of your completed selections.
 
